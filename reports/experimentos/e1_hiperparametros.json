@@ -1,0 +1,23 @@
+{
+  "ridge": {
+    "modelo__alpha": 46.41588833612777
+  },
+  "lightgbm": {
+    "modelo__colsample_bytree": 0.9206762711086331,
+    "modelo__learning_rate": 0.010924471448849667,
+    "modelo__min_child_samples": 19,
+    "modelo__n_estimators": 911,
+    "modelo__num_leaves": 22,
+    "modelo__reg_lambda": 0.5616500200570663,
+    "modelo__subsample": 0.9282449205941612
+  },
+  "xgboost": {
+    "modelo__colsample_bytree": 0.43606602379641113,
+    "modelo__learning_rate": 0.017145642876685786,
+    "modelo__max_depth": 4,
+    "modelo__min_child_weight": 8,
+    "modelo__n_estimators": 805,
+    "modelo__reg_lambda": 24.72612195536304,
+    "modelo__subsample": 0.7581501741505976
+  }
+}
