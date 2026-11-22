@@ -2,7 +2,7 @@
 
 Code and synthetic data that accompany the paper
 
-> A. Cerdán, [second author], and A. Melgar, "A Reproducible Procedure for Predicting Quay Crane Productivity per Shift in a Container Terminal," submitted to CI2A 2027.
+> A. Cerdán, A.Galarreta, and A. Melgar, "A Reproducible Procedure for Predicting Quay Crane Productivity per Shift in a Container Terminal," submitted to CI2A 2027.
 
 The paper develops and evaluates models that predict crane moves per hour (CMPH) for each vessel call and eight-hour shift. The terminal's data are confidential. This repository therefore publishes a **synthetic dataset** with the same schema and runs the paper's final model on it, so that the pipeline can be inspected and run end to end without the original data.
 
